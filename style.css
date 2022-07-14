@@ -23,6 +23,11 @@ body {
 
 	background: white;
 	color: black;
+	
+	line-height: 1em;
+   	letter-spacing: -0.175em;
+    	font-weight: bold;
+	filter: blur(0.25em) contrast(1.25);
 }
 
 #text.dark {
