@@ -1,4 +1,6 @@
 
+dot symbols x2 (0-65535, 16 colors)  
+  
 # ==> [Test it out in your browser!](https://505e06b2.github.io/Image-to-Braille/)
 
 Standard:
